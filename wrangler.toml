@@ -1,0 +1,8 @@
+name = "aiaa-content-api"
+main = "index.js"
+compatibility_date = "2024-04-03"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "aiaa-content-db"
+database_id = "42a47ea9-527c-4baf-808e-33a25c6662d0"
